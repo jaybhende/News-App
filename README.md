@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# News App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed with help of restful API to provide daily news headline.   
 
 ## Available Scripts
 
